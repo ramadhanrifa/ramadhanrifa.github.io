@@ -1,0 +1,122 @@
+body{
+    background-color:#181818;
+    font-size: 18px;
+    padding:15px 9px 15px 9px ;
+    height: 140px ;
+
+    margin: 0px 0px;
+
+}
+#container {
+    height: 150px;
+    border: 2px solid;
+    background-color: #D8D9CF;
+    padding: auto;
+    box-shadow: 2px white;
+    
+}
+#listportofolio {
+    list-style: none;
+    align-items: center;
+    text-align:end;    
+
+    
+
+}
+.logo{
+    float: left;
+    margin-top: 20px;
+
+}
+.list{
+    float: right;
+    margin-bottom: 50px;
+    
+    color:black;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    
+    
+}
+.list:hover{
+
+    background-color:azure;
+    
+}
+
+
+
+#content {
+    float: none;
+    height: auto;
+    text-align: center;
+
+ 
+    border: 2px solid;
+    background-color: #F5EDDC;
+
+    
+
+}
+#content .profil{
+    float: none;
+    transition: 1.5s;
+}
+#content .p{
+    float: none;
+
+}
+#content2{
+    float: none;
+    height: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid;
+    background-color: #F5EDDC;
+    padding: 20px 10px 20px 10px;
+    
+
+}
+#footer {
+    height: 230px;
+    text-align: center;
+    border: 2px solid;
+    background-color: #CFD2CF;
+    padding: auto;
+}
+
+ul{
+    list-style: none;
+    
+}
+.navbar{
+    height: 200px;
+    
+    
+}
+
+.profil:hover{
+    border-radius: 50%;
+    
+    
+}
+.footer1{
+float: left;
+}
+.footer2{
+float: right;
+}
+.footer3{
+align-items: center;
+}
+.indo{
+    width: 150px; ;
+    align-items: center;
+    margin: '0 -50px';
+}
+
+a:visited{
+    color: black;
+}
